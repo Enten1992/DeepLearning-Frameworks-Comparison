@@ -1392,3 +1392,4 @@
 2023-05-24T00:00:00 - 3 - Adjust hyperparameters for better convergence
 2023-05-24T00:00:00 - 4 - Update documentation and README
 2023-05-24T00:00:00 - 5 - Clean up code and remove unused imports
+2023-05-24T00:00:00 - 6 - Update dependencies in requirements.txt
