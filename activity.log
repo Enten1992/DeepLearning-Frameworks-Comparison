@@ -1579,3 +1579,4 @@
 2023-12-20T00:00:00 - 3 - Fix issue with model saving and loading
 2023-12-20T00:00:00 - 4 - Update documentation and README
 2023-12-20T00:00:00 - 5 - Adjust hyperparameters for better convergence
+2023-12-20T00:00:00 - 6 - Improve error handling in API endpoints
