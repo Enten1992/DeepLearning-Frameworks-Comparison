@@ -822,3 +822,4 @@
 2024-02-09T00:00:00 - 10 - Fix issue with model saving and loading
 2024-02-09T00:00:00 - 11 - Refactor model architecture for better performance
 2024-02-09T00:00:00 - 12 - Adjust hyperparameters for better convergence
+2024-02-09T00:00:00 - 13 - Add unit tests for core modules
