@@ -1663,3 +1663,4 @@
 2024-05-09T00:00:00 - 0 - Fix issue with model saving and loading
 2024-05-09T00:00:00 - 1 - Add unit tests for core modules
 2024-05-09T00:00:00 - 2 - Add unit tests for core modules
+2024-05-09T00:00:00 - 3 - Update dependencies in requirements.txt
