@@ -1707,3 +1707,4 @@
 2024-08-19T00:00:00 - 5 - Fix issue with model saving and loading
 2024-08-19T00:00:00 - 6 - Add comments to complex functions
 2024-09-12T00:00:00 - 0 - Update documentation and README
+2024-09-12T00:00:00 - 1 - Adjust hyperparameters for better convergence
