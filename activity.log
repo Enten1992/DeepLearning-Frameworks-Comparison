@@ -1770,3 +1770,4 @@
 2024-10-16T00:00:00 - 5 - Update dependencies in requirements.txt
 2024-10-16T00:00:00 - 6 - Fix minor bugs in data preprocessing
 2024-10-16T00:00:00 - 7 - Fix issue with model saving and loading
+2024-10-16T00:00:00 - 8 - Clean up code and remove unused imports
