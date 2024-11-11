@@ -2,3 +2,4 @@
 2024-11-11T00:00:00 - Implement new feature for model evaluation
 2024-11-11T00:00:00 - Add support for new dataset
 2024-11-11T00:00:00 - Update dependencies in requirements.txt
+2024-11-11T00:00:00 - Adjust hyperparameters for better convergence
