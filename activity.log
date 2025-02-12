@@ -37,3 +37,4 @@
 2025-02-10T00:00:00 - Add unit tests for core modules
 2025-02-10T00:00:00 - Clean up code and remove unused imports
 2025-02-12T00:00:00 - Adjust hyperparameters for better convergence
+2025-02-12T00:00:00 - Update project structure
