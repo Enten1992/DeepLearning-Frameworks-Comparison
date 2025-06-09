@@ -61,3 +61,4 @@
 2025-05-21T00:00:00 - Add support for new dataset
 2025-05-21T00:00:00 - Update documentation and README
 2025-06-04T00:00:00 - Improve error handling in API endpoints
+2025-06-09T00:00:00 - Update dependencies in requirements.txt
