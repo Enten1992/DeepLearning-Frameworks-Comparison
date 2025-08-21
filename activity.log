@@ -402,3 +402,4 @@
 2025-08-11T00:00:00 - 7 - Fix minor bugs in data preprocessing
 2025-08-11T00:00:00 - 8 - Implement new feature for model evaluation
 2025-08-21T00:00:00 - 0 - Update dependencies in requirements.txt
+2025-08-21T00:00:00 - 1 - Fix issue with model saving and loading
