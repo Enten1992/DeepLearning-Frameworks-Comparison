@@ -2014,3 +2014,4 @@
 2025-10-01T00:00:00 - 5 - Update documentation and README
 2025-10-01T00:00:00 - 6 - Fix minor bugs in data preprocessing
 2025-10-01T00:00:00 - 7 - Implement new feature for model evaluation
+2025-10-01T00:00:00 - 8 - Update dependencies in requirements.txt
