@@ -1323,3 +1323,4 @@
 2025-12-23T00:00:00 - 10 - Fix issue with model saving and loading
 2026-01-14T00:00:00 - 0 - Fix issue with model saving and loading
 2026-01-14T00:00:00 - 1 - Update documentation and README
+2026-01-14T00:00:00 - 2 - Improve error handling in API endpoints
