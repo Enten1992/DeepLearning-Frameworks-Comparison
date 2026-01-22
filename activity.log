@@ -113,3 +113,4 @@
 2026-01-12T00:00:00 - Fix minor bugs in data preprocessing
 2026-01-22T00:00:00 - Update dependencies in requirements.txt
 2026-01-22T00:00:00 - Fix issue with model saving and loading
+2026-01-22T00:00:00 - Add comments to complex functions
