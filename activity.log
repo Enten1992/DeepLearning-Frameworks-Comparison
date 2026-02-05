@@ -1345,3 +1345,4 @@
 2026-02-05T00:00:00 - 0 - Add unit tests for core modules
 2026-02-05T00:00:00 - 1 - Add support for new dataset
 2026-02-05T00:00:00 - 2 - Update project structure
+2026-02-05T00:00:00 - 3 - Fix issue with model saving and loading
